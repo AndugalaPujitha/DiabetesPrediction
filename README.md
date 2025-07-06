@@ -58,9 +58,4 @@ The person is not diabetic
 # 📈 Accuracy
 The model uses an 80-20 train-test split and prints accuracy scores for both.
 
-# 📌 Notes
-Make sure to adjust the dataset path in Prediction.py if not running from the same location:
-
-pd.read_csv('diabetes.csv')
-You can modify input_data at the end of the script to test different cases.
 
